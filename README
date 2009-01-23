@@ -1,0 +1,23 @@
+The tryruby4php library contains a couple files that aid you in interacting with
+a TryRuby session.
+
+In short, TryRuby is a online Ruby interpreter developed by _why, possibly the
+most famous Rubyist known in the community.
+
+TryRuby was originally used as a learning tool for people who wanted to learn
+Ruby without actually installing it.
+
+You can try the original application from the TryRuby website.
+TryRuby @ http://tryruby.hobix.com
+
+Files included in this package:
+
+bin/
+ - ruby.php    : Contains a sample program for executing Ruby code in a TryRuby
+                 session interactively.
+lib/
+ - TryRuby.php : Contains the TryRuby class that allows you to create a TryRuby
+                 session and interact within it.
+
+If you have any questions, bug reports or feedback, you may reach me by e-mail
+(drop a line at shugotenshi-at-gmail-dot-com) or on FreeNode (nick: "kuja").
