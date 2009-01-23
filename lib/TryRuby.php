@@ -61,8 +61,8 @@ class TryRuby {
 	 * fetched and returned back to the caller, the prepending "=> " string is
 	 * not stripped for you, however, the trailing single newline is.
 	 *
-	 * @param   string  Command string
-	 * @return  string  Command output
+	 * @param   string  $str  Command string
+	 * @return  string        Command output
 	 * @access  public
 	 */
 	function send($str)
