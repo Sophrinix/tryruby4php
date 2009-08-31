@@ -19,7 +19,7 @@ class TryRuby {
 	 * @var     string
 	 * @access  public
 	 */
-	var $url = 'http://tryruby.hobix.com/irb?cmd=%s';
+	var $url = 'http://tryruby.sophrinix.com/irb?cmd=%s';
 	
 	/**
 	 * Session ID for current Try Ruby session.
